@@ -1,7 +1,7 @@
 package com.exceptions2;
 
 
-class MyException extends Exception {
+class MyException extends ThrowDemo {
     private int detail;
 
     MyException(int a) {

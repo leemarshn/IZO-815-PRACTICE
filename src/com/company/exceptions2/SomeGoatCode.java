@@ -1,8 +1,4 @@
-package com.exceptions2;
-
-import java.lang.reflect.Array;
-import java.util.ArrayList;
-import java.util.Arrays;
+package com.company.exceptions2;
 
 public class SomeGoatCode {
 public static void main(String[] args) {

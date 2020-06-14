@@ -1,4 +1,4 @@
-package com.exceptions2;
+package com.company.exceptions2;
 
 
 class ExceptionDemo {

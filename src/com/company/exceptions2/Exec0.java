@@ -1,4 +1,4 @@
-package com.exceptions2;
+package com.company.exceptions2;
 
 public class Exec0 {
     public static void main(String[] args) {

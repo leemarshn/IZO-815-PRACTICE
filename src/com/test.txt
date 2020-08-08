@@ -1,0 +1,3 @@
+so, in inteliJ you have to deal with,
+complete paths,
+absolute paths do not work.

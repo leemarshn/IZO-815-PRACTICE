@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Challenges-Java-11.iml" filepath="$PROJECT_DIR$/Challenges-Java-11.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/IZO-815-PRACTICE.iml" filepath="$PROJECT_DIR$/IZO-815-PRACTICE.iml" />
+>>>>>>> 4e5bf0b5bdd2401a10851b0f8863db696e52ec4f
     </modules>
   </component>
 </project>
